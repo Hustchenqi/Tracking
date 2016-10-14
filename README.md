@@ -22,7 +22,7 @@ make
 cd ..
 sh run.sh
 ```
-##Problem coming across
+##Problem summarizing
 <ol>
 <li>cannot find #include "caffe/proto/caffe.pb.h"</li>
 <p>In the Caffe install directory</p>
