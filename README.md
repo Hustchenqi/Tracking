@@ -15,9 +15,12 @@ tracker.prototxt has existed in nets folder
 ##Compile
 clean the build folder,and then
 ```javascript
+mkdir build
 cd build
 cmake ..
 make
+cd ..
+sh run.sh
 ```
 ##Problem coming across
 <ol>
