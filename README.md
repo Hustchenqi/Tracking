@@ -8,7 +8,8 @@ The project is rectified from <a href="https://github.com/davheld/GOTURN">GOTURN
 <li>Cmake</li>
 </ul>
 ##Caffemodel
-tracker.caffemodel can be <a href=http://cs.stanford.edu/people/davheld/public/GOTURN/trained_model/tracker.caffemodel>Download</a>
+tracker.caffemodel can be 
+<a href=http://cs.stanford.edu/people/davheld/public/GOTURN/trained_model/tracker.caffemodel>Download</a>  
 tracker.prototxt has existed in nets folder
 ##Compile
 clean the build folder,and then
