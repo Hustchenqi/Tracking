@@ -1,5 +1,6 @@
 # Tracking
-The project is rectified from <a href="https://github.com/davheld/GOTURN">GOTURN Project</a>
+The project is rectified from <a href="https://github.com/davheld/GOTURN">GOTURN Project</a>.  
+The camera we used is Kinect1, any webcam can be used and you just need to modify the `main.cpp`.
 
 ##Dependencies
 <ul>
